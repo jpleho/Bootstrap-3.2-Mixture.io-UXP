@@ -1,0 +1,25 @@
+{
+    "debug": false,
+    "lintScripts": false,
+    "preprocessorLocations": [
+        "assets"
+    ],
+    "preprocessorScriptOutput": "assets/jss",
+    "preprocessorStyleOutput": "assets/css",
+    "projectName": "Empty",
+    "projectDescription": "Bootstrap v3.2.0",
+    "publishedId": null,
+    "serverHostname": null,
+    "serverPort": null,
+    "templateDirectory": "templates",
+    "templateDefaultLayout": "layout",
+    "templateDefaultPage": "index",
+    "type": "mixture",
+    "useCompass": false,
+    "simpleModePartnerServer": null,
+    "modelSource": null,
+    "domain": null,
+    "convertHtml": {
+        "relativePaths": false
+    }
+}
