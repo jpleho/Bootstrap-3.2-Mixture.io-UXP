@@ -4,6 +4,8 @@
     "preprocessorLocations": [
         "assets"
     ],
+    "password": "test123",
+    "sitemap": true,
     "preprocessorScriptOutput": "assets/jss",
     "preprocessorStyleOutput": "assets/css",
     "projectName": "UX Passion boilerplate",
@@ -22,4 +24,5 @@
     "convertHtml": {
         "relativePaths": false
     }
+
 }

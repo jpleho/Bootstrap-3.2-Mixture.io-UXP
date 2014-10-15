@@ -43,3 +43,9 @@
     padding: 9px;
     color: #333;
 }
+
+.heart {
+    padding: 0px !important;
+    height: 50px;
+    margin-top: -2px; 
+}
